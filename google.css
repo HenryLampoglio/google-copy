@@ -90,7 +90,7 @@ body{
 
 
 .search-tools-container{
-    max-width: 1780px;
+    max-width: 100vw;
     height: 120px;
     padding: 20px;
     display: flex;
@@ -191,12 +191,12 @@ body{
 }
 
 .empty-container{
-    max-width: 1820px;
-    height: 408px;
+    max-width: 100vw;
+    height: 315px;
 }
 
 .google-offered-container{
-    max-width: 1820px;
+    max-width: 100vw;
     height: 28px;
     margin: 0px 0px 24px 0px;
     display: flex;
@@ -226,8 +226,9 @@ body{
     cursor: pointer;
 }
 
+
 .upper-footer{
-    max-width: 1760px;
+    max-width: 100vw;
     height: 17px;
     padding: 15px 30px;
     border-bottom: 1px solid #3c4043;
@@ -240,8 +241,8 @@ body{
 }
 
 .lower-footer{
-    max-width: 1800px;
-    height: 46px;
+    max-width: 100vw;
+    height: 45px;
     padding: 0px 20px;
     background-color: #171717;
     font-size: 14px;
